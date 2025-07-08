@@ -72,6 +72,66 @@ Catalyst merges personal transformation, social impact, and creative expression 
 - Brand consistency
 - User-centered approach
 
+### Content Contributions
+- Authentic and vulnerable
+- Transformation-focused
+- Community-building oriented
+- High quality but not overly polished
+
+## 🔄 Review Process
+
+### Review Criteria
+- Alignment with Catalyst mission and values
+- Quality and attention to detail
+- Positive impact on community
+- Sustainability considerations
+
+### Review Timeline
+- **Small changes**: 2-3 days
+- **Medium features**: 1-2 weeks
+- **Large initiatives**: 2-4 weeks
+- **Major changes**: 1-2 months with community input
+
+## 🎯 Priority Areas
+
+### Current Focus Areas
+1. **Community Platform Development**
+2. **Content Creation** for "Pages from Becoming"
+3. **Sustainability Improvements**
+4. **Accessibility Enhancement**
+5. **Mobile Experience**
+
+## 🏆 Recognition and Rewards
+
+### Contribution Recognition
+- **Contributor Credits**: Recognition in project documentation
+- **Community Spotlight**: Featured in newsletters and social media
+- **Beta Access**: Early access to new features and products
+- **Exclusive Events**: Invitation to contributor-only gatherings
+
+## 🛡️ Code of Conduct
+
+### Our Standards
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
+
+### Unacceptable Behaviors
+- Use of sexualized language or imagery
+- Trolling, insulting, or derogatory comments
+- Public or private harassment
+- Publishing others' private information
+- Other conduct which could reasonably be considered inappropriate
+
+## 🤔 Questions and Support
+
+### Getting Help
+- **GitHub Issues**: Technical questions and bug reports
+- **Community Forum**: General questions and discussions
+- **Email**: contribute@catalyst.co for private inquiries
+
 ---
 
 *"In community, we find the courage to transform. In transformation, we heal the world."*
