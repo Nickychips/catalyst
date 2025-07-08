@@ -51,3 +51,56 @@ An imperfect, unfolding book told in real time through video. Each episode is a 
 - Design process transparency
 - Business evolution documentation
 - Failure and learning moments
+
+## Content Guidelines
+
+- Lead with vulnerability
+- Show the process, not just results
+- Invite participation over consumption
+- Document the journey authentically
+
+## Photography Philosophy
+
+### Aesthetic Direction
+- Natural lighting preferred
+- Authentic moments over staged perfection
+- Focus on human connection and consciousness
+- Products shown in real-life contexts
+
+### Technical Standards
+- High resolution for all applications
+- Consistent color grading
+- Multiple aspect ratios for different platforms
+- Rights and usage documentation
+
+## Social Media Strategy
+
+### Platform-Specific Approach
+- **Instagram**: Visual storytelling and community highlights
+- **TikTok**: Raw, authentic transformation moments
+- **YouTube**: Long-form "Pages from Becoming" content
+- **LinkedIn**: Business and thought leadership content
+
+### Content Types
+- **Educational**: Consciousness tips and practices
+- **Behind-the-scenes**: Authentic business building
+- **Community**: User stories and chain reactions
+- **Product**: Lifestyle integration and mirror moments
+
+## User-Generated Content
+
+### Community Participation
+- Mirror selfie campaigns
+- Transformation story submissions
+- Get/Give chain documentation
+- Sunday ritual sharing
+
+### Content Guidelines for Community
+- Authentic sharing encouraged
+- Privacy and consent respected
+- Positive and constructive focus
+- Alignment with Catalyst values
+
+---
+
+*"Every piece of content is an invitation to transformation. We create not to sell, but to connect, inspire, and document the journey of becoming."*
